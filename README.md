@@ -1,0 +1,1 @@
+School project done individually solving this task: https://www.uio.no/studier/emner/matnat/ifi/IN1010/v23/Obligatoriske-innleveringer/Oblig-4/oblig4-2023.docx.pdf
