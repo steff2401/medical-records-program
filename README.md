@@ -1,1 +1,3 @@
 School project done individually solving this task: https://www.uio.no/studier/emner/matnat/ifi/IN1010/v23/Obligatoriske-innleveringer/Oblig-4/oblig4-2023.docx.pdf
+
+This Java program implements a simple medical records system. The program allows the user to interact with the medical system via the command-line interface. The user can perform various operations, such as displaying an overview of patients, doctors, medications, and prescriptions, adding new doctors, patients, medications, and prescriptions, using prescriptions for patients, and obtaining statistics on prescriptions for habit-forming and narcotic medications.
