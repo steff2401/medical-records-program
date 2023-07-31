@@ -5,7 +5,7 @@ public class Hovedprogram {
 
         Scanner scanner = new Scanner(System.in);
         Legesystem legesystem = new Legesystem();
-        legesystem.lesInnFraFil("legedata-stor.txt"); 
+        legesystem.lesInnFraFil("data/legedata-stor.txt"); 
         String fortsett = "ja";
 
         System.out.println("\nVelkommen til ditt legesystem!");
